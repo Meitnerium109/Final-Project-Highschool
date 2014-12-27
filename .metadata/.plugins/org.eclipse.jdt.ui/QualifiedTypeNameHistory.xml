@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Entities.Floor"/>
+<fullyQualifiedTypeName name="org.flixel.event.IFlxCollision"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Timer"/>
+<fullyQualifiedTypeName name="Weapons.Sword"/>
+<fullyQualifiedTypeName name="Weapons.Weapon"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
+<fullyQualifiedTypeName name="com.FinalGame.flixelgame.FlixelGame"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration"/>
+<fullyQualifiedTypeName name="org.flixel.FlxCamera"/>
+<fullyQualifiedTypeName name="org.flixel.FlxPoint"/>
+<fullyQualifiedTypeName name="Enemies.RangedAlien"/>
+<fullyQualifiedTypeName name="org.flixel.FlxSprite"/>
+<fullyQualifiedTypeName name="com.esotericsoftware.tablelayout.Value"/>
+<fullyQualifiedTypeName name="org.flixel.FlxText"/>
+<fullyQualifiedTypeName name="Store.StoreItems.JumpingShoes"/>
+<fullyQualifiedTypeName name="Store.StoreItems.Heart"/>
+<fullyQualifiedTypeName name="Misc.Key"/>
+<fullyQualifiedTypeName name="Projectiles.Explosion"/>
+<fullyQualifiedTypeName name="Weapons.MachineGun"/>
+<fullyQualifiedTypeName name="Entities.LadderBlock"/>
+<fullyQualifiedTypeName name="org.flixel.FlxG"/>
+<fullyQualifiedTypeName name="Misc.VariableText"/>
+<fullyQualifiedTypeName name="Misc.Inventory"/>
+<fullyQualifiedTypeName name="PlayerPackage.Player"/>
+<fullyQualifiedTypeName name="Misc.Ammo"/>
+<fullyQualifiedTypeName name="Entities.Entity"/>
+<fullyQualifiedTypeName name="Misc.Timer"/>
+<fullyQualifiedTypeName name="Misc.RandomNumber"/>
+</qualifiedTypeNameHistroy>
